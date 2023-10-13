@@ -60,6 +60,7 @@ main .pratos .imagem {
 
 .conteudo .logo {
     background-image: url("../imagens/logo-restaurante-2.png");
+    position: relative;
     background-size: cover;
     height: 210px;
     width: 310px;
